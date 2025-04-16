@@ -64,7 +64,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 For questions, feedback, or collaborations:
 - 📧 jalaj0562@gmail.com
-- 🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🔗 www.linkedin.com/in/jalaj-hingorani-9084072a2
 
 ---
 
